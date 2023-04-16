@@ -11,7 +11,6 @@ function App({ Component, pageProps }) {
         = protocol(scheme) + URN + URL
           (+) urn url은 교집합을 가진다
       */ 
-
     cache: new InMemoryCache()
   });
 

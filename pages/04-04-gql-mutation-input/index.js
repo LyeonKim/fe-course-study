@@ -1,4 +1,4 @@
-import { gql ,useMutation } from "@apollo/client"
+import { gql, useMutation } from "@apollo/client"
 import { useState } from "react";
 
 /* apollo-client_mutation 날리기: createBoard gql변수를 통해 데이터 전달 */
